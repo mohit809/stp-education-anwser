@@ -1,0 +1,901 @@
+Q1. What does HTML stands for?
+ Hyperlinks and Text Markup Language
+ Home Tool Markup Language
+ Hyper Text Markup Language
+ Hyper Tool Markup Language
+Your Ans :
+Hyper Text Markup Language
+Correct Ans :
+Hyper Text Markup Language
+Q2. Choose the correct HTML element for the largest heading.
+ <h6>
+ <heading>
+ <h1>
+ <head>
+Your Ans :
+<h1>
+Correct Ans :
+<h1>
+Q3. What is the correct HTML element for inserting a line break?
+ <br>
+ <lb>
+ <break>
+ <hr>
+Your Ans :
+<br>
+Correct Ans :
+<br>
+Q4. What is the correct HTML for creating a hyperlink?
+ <a name="https://stpcomputereducation.com">stpcomputereducation.com</a>
+ <a href="https://stpcomputereducation.com">stpcomputereducation.com</a>
+ <a>stpcomputereducation.com</a>
+ <a url="https://stpcomputereducation.com">stpcomputereducation.com</a>
+Your Ans :
+<a href="https://stpcomputereducation.com">stpcomputereducation.com</a>
+Correct Ans :
+<a href="https://stpcomputereducation.com">stpcomputereducation.com</a>
+Q5. How can you make a numbered list?
+ <ol>
+ <dl>
+ <ul>
+ <list>
+Your Ans :
+<ol>
+Correct Ans :
+<ol>
+Q6. What is the correct HTML for making a checkbox?
+ <input type="check">
+ <input type="checkbox">
+ <check>
+ <checkbox>
+Your Ans :
+<input type="checkbox">
+Correct Ans :
+<input type="checkbox">
+Q7. What is the correct HTML for making a drop-down list?
+ <input type="dropdown">
+ <select>
+ <list>
+ <input type="list">
+Your Ans :
+<select>
+Correct Ans :
+<select>
+Q8. What is the correct HTML for inserting an image?
+ <img src="image.jpg" alt="myimage">
+ <img href="image.jpg" alt="myimage">
+ <img alt="myimage">image.jpg</img>
+ <image src="image.jpg" alt="myimage">
+Your Ans :
+<img src="image.jpg" alt="myimage">
+Correct Ans :
+<img src="image.jpg" alt="myimage">
+Q9. Which doctype is correct for HTML5?
+ <!DOCTYPE HTML5>
+ <!DOCTYPE html>
+ <!DOCTYPE>
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN" "http://www.w3.org/TR/html5/strict.dtd>
+Your Ans :
+<!DOCTYPE html>
+Correct Ans :
+<!DOCTYPE html>
+Q10. How many heading levels are in HTML document?
+ 3
+ 4
+ 5
+ 6
+Your Ans :
+6
+Correct Ans :
+6
+Q11. Which of the following tag does not require to close?
+ <u>
+ <i>
+ <hr>
+ <em>
+Your Ans :
+<hr>
+Correct Ans :
+<hr>
+Q12. The ............ tag allows you to add horizontal rules across the web pages.
+ <hr>
+ <br>
+ <hl>
+ <li>
+Your Ans :
+<hr>
+Correct Ans :
+<hr>
+Q13. Which one is an empty tag?
+ <b>
+ <br>
+ <u>
+ <i>
+Your Ans :
+<br>
+Correct Ans :
+<br>
+Q14. HTML program is saved using _________ extension.
+ .htl
+ .html
+ .htlm
+ .hml
+Your Ans :
+.html
+Correct Ans :
+.html
+Q15. Which of the following tag is used to accept keyboard formatting in the Web page?
+ <i>
+ <pre>
+ <kf>
+ None of the above
+Your Ans :
+None of the above
+Correct Ans :
+<pre>
+Q16. The full form of CSS is __________
+ Cascading Style Sheets
+ Coloured Special Sheets
+ Color and Style Sheets
+ None of the above
+Your Ans :
+Cascading Style Sheets
+Correct Ans :
+Cascading Style Sheets
+Q17. How can we change the background color of an element?
+ color
+ bg-color
+ bg-colour
+ background-color
+Your Ans :
+background-color
+Correct Ans :
+background-color
+Q18. How can we change the text color of an element?
+ font-color
+ color
+ Both A and B
+ None of the above
+Your Ans :
+Both A and B
+Correct Ans :
+color
+Q19. In how many ways can CSS be written in?
+ 1
+ 2
+ 3
+ 4
+Your Ans :
+3
+Correct Ans :
+3
+Q20. Which HTML tag is used to declare internal CSS?
+ <style>
+ <link>
+ <script>
+ None of the above
+Your Ans :
+<style>
+Correct Ans :
+<style>
+Q21. How can we select an element with a specific ID in CSS?
+ #
+ .
+ ^
+ None of the above
+Your Ans :
+#
+Correct Ans :
+#
+Q22. The CSS property used to specify the transparency of an element is?
+ opacity
+ visibility
+ filter
+ None of the above
+Your Ans :
+opacity
+Correct Ans :
+opacity
+Q23. How can we specify the spacing between each letter in a text in CSS?
+ alpha-spacing
+ letter-spacing
+ character-spacing
+ None of the above
+Your Ans :
+letter-spacing
+Correct Ans :
+letter-spacing
+Q24. What is the correct syntax for referring an external CSS?
+ <link rel="stylesheet" type="text/css" href="style.css">
+ <style rel="stylesheet" type="text/css" href="style.css">
+ Both A and B
+ None of the above
+Your Ans :
+Both A and B
+Correct Ans :
+<link rel="stylesheet" type="text/css" href="style.css">
+Q25. Which of the following are valid ways to represent a colour in CSS?
+ A valid color name
+ RGB values
+ HEX values
+ All of the above
+Your Ans :
+All of the above
+Correct Ans :
+All of the above
+Q26. We can make rounded borders around elements using which CSS element?
+ border-collapse
+ border-round
+ border-radius
+ None of the above
+Your Ans :
+border-radius
+Correct Ans :
+border-radius
+Q27. Which CSS property is used to specify different border styles?
+ border-style
+ border
+ Both A and B
+ None of the above
+Your Ans :
+border-style
+Correct Ans :
+border-style
+Q28. Setting an inline-block in CSS requires which of the following properties?
+ display
+ color
+ block
+ None of the above
+Your Ans :
+display
+Correct Ans :
+display
+Q29. Which of the following components of the CSS box model are transparent?
+ Padding
+ Margin
+ Both A and B
+ Content
+Your Ans :
+Both A and B
+Correct Ans :
+Both A and B
+Q30. Which of the following properties is used to align text in CSS?
+ text-align
+ text-alignment
+ text
+ text-position
+Your Ans :
+text-align
+Correct Ans :
+text-align
+Q31. Which of the following CSS properties specifies the stack order of elements?
+ z-index
+ overlap
+ No such specific property is present
+ None of the above
+Your Ans :
+z-index
+Correct Ans :
+z-index
+Q32. JavaScript code can be written in ____.
+ JavaScript file (.js file)
+ HTML document directly
+ A and B Both
+ None of the above
+Your Ans :
+A and B Both
+Correct Ans :
+A and B Both
+Q33. Which symbol is used separate JavaScript statements?
+ Comma (,)
+ Colon (:)
+ Hyphen (_)
+ Semicolon (;)
+Your Ans :
+Semicolon (;)
+Correct Ans :
+Semicolon (;)
+Q34. Which is the correct syntax to call an external JavaScript file in the current HTML document?
+ <script src="jsfile.js"></script>
+ <script href=" jsfile.js"></script>
+ <import src=" jsfile.js"></import>
+ <script link=" jsfile.js"></script>
+Your Ans :
+<script src="jsfile.js"></script>
+Correct Ans :
+<script src="jsfile.js"></script>
+Q35. Which JavaScript method is used to access an HTML element by id?
+ getElementById(id value)
+ getElement(id value)
+ elementById(id value)
+ None of the above
+Your Ans :
+getElementById(id value)
+Correct Ans :
+getElementById(id value)
+Q36. Which property is used to define the HTML content to an HTML element with a specific id?
+ innerText
+ innerContent
+ elementText
+ innerHTML
+Your Ans :
+innerHTML
+Correct Ans :
+innerHTML
+Q37. Which JavaScript method is used to write HTML output?
+ document.write()
+ document.output()
+ console()
+ document.writeHTML()
+Your Ans :
+document.write()
+Correct Ans :
+document.write()
+Q38. Which JavaScript method is used to write on browser console?
+ console.write()
+ console.output()
+ console.log()
+ console.writeHTML()
+Your Ans :
+console.log()
+Correct Ans :
+console.log()
+Q39. Which JavaScript method is used to write into an alert box?
+ window.alertHTML()
+ window.alert()
+ window.alertBox()
+ window.alertContent()
+Your Ans :
+window.alert()
+Correct Ans :
+window.alert()
+Q40. Which JavaScript keyword is used to declare a variable?
+ variable
+ var
+ set
+ None of the above
+Your Ans :
+var
+Correct Ans :
+var
+Q41. Does JavaScript support increment (++) and decrements (--) Operators?
+ Yes
+ No
+ Not Available
+ Not Available
+Your Ans :
+Yes
+Correct Ans :
+Yes
+Q42. JavaScript arrays are written with _____.
+ round brackets ()
+ curly brackets {}
+ double quotes
+ square brackets []
+Your Ans :
+square brackets []
+Correct Ans :
+square brackets []
+Q43. JavaScript objects are written with _____.
+ round brackets ()
+ curly brackets {}
+ double quotes
+ square brackets []
+Your Ans :
+curly brackets {}
+Correct Ans :
+curly brackets {}
+Q44. Which keyword is used to define a JavaScript function?
+ module
+ fun
+ func
+ function
+Your Ans :
+function
+Correct Ans :
+function
+Q45. In JavaScript a variable contains one value while an object may contain ___.
+ One value
+ Two values
+ Three values
+ Many values
+Your Ans :
+Many values
+Correct Ans :
+Many values
+Q46. Which property is used to get the length of a string in JavaScript?
+ strlen
+ len
+ length
+ count
+Your Ans :
+length
+Correct Ans :
+length
+Q47. Which JavaScript method is used to get a number as a string?
+ toString()
+ intToString()
+ parseInteger()
+ All of the above
+Your Ans :
+toString()
+Correct Ans :
+toString()
+Q48. jQuery is a -
+ JavaScript method
+ JavaScript library
+ JSON library
+ PHP method
+Your Ans :
+JavaScript library
+Correct Ans :
+JavaScript library
+Q49. Which of the following sign is used as a shortcut for jQuery?
+ the % sign
+ the * sign
+ the $ sign
+ the @ sign
+Your Ans :
+the $ sign
+Correct Ans :
+the $ sign
+Q50. Which of the following jQuery method is used to hide the selected elements?
+ The hidden() method
+ The hide() method
+ The visible(false) method
+ The display(none) method
+Your Ans :
+The hide() method
+Correct Ans :
+The hide() method
+Q51. Which jQuery method is used to set one or more style properties to the selected element?
+ The html() method
+ The style() method
+ The css() method
+ All of the above
+Your Ans :
+The css() method
+Correct Ans :
+The css() method
+Q52. The correct syntax to set the background color of all h1 elements to yellow in jQuery -
+ $("h1").style("background-color","yellow");
+ $("h1").html("background-color","yellow");
+ $("h1").css("background-color","yellow");
+ $("h1").layout("background-color","yellow");
+Your Ans :
+$("h1").css("background-color","yellow");
+Correct Ans :
+$("h1").css("background-color","yellow");
+Q53. The jQuery method used to perform an asynchronous HTTP request -
+ jQuery ajaxSetup() method
+ jQuery ajaxSync() method
+ jQuery ajax() method
+ None of the above
+Your Ans :
+jQuery ajax() method
+Correct Ans :
+jQuery ajax() method
+Q54. Which of the jQuery function prevents the code from running before the loading of the document finishes?
+ $(document).load()
+ $(document).unload()
+ $(document).ready()
+ $(document).trim()
+Your Ans :
+$(document).ready()
+Correct Ans :
+$(document).ready()
+Q55. Which of the following jQuery method is used to set the value of an element?
+ val() method
+ setValue() method
+ content() method
+ None of the above
+Your Ans :
+val() method
+Correct Ans :
+val() method
+Q56. The jQuery method used to remove the set of matched elements is -
+ delete() method
+ empty() method
+ remove() method
+ None of the above
+Your Ans :
+remove() method
+Correct Ans :
+remove() method
+Q57. The toggle() method in jQuery is used to -
+ toggle between the hide() and show() methods
+ toggle between the fadeIn() and fadeOut() methods
+ toggle between the slideUp() and slideDown() methods
+ None of the above
+Your Ans :
+toggle between the hide() and show() methods
+Correct Ans :
+toggle between the hide() and show() methods
+Q58. Which of the following method is used to toggle between the fadeIn() method and fadeOut() method?
+ toggle() method
+ fadeToggle() method
+ slideToggle() method
+ animate() method
+Your Ans :
+fadeToggle() method
+Correct Ans :
+fadeToggle() method
+Q59. If the names of variables are the same, then which of the following type of variable takes precedence?
+ local variable
+ global variable
+ both (a) and (b)
+ None of the above
+Your Ans :
+local variable
+Correct Ans :
+local variable
+Q60. CDN stands for -
+ Content development network
+ Content delivery network
+ Communication development network
+ None of the above
+Your Ans :
+Content development network
+Correct Ans :
+Content delivery network
+Q61. Can we use multiple document.ready() function on the same page?
+ Yes
+ No
+ Not Available
+ Not Available
+Your Ans :
+Yes
+Correct Ans :
+Yes
+Q62. How many types of loop in JavaScript ?
+ 1
+ 2
+ 3
+ 4
+Your Ans :
+3
+Correct Ans :
+3
+Q63. What is the full form of SQL?
+ Structured Query List
+ Structure Query Language
+ Sample Query Language
+ None of these.
+Your Ans :
+Structure Query Language
+Correct Ans :
+Structure Query Language
+Q64. How many Primary keys can have in a table?
+ Only 1
+ Only 2
+ Depends on no of Columns
+ Depends on DBA
+Your Ans :
+Only 1
+Correct Ans :
+Only 1
+Q65. If we have not specified ASC or DESC after a SQL ORDER BY clause, the following is used by default
+ DESC
+ ASC
+ There is no default value
+ None of the mentioned
+Your Ans :
+ASC
+Correct Ans :
+ASC
+Q66. Full form of PHP is?
+ Pretext Hypertext Processor
+ Hypertext preprocessor
+ Preprocessor Home page
+ None of the above
+Your Ans :
+Hypertext preprocessor
+Correct Ans :
+Hypertext preprocessor
+Q67. Choose the default file extension of PHP among the following.
+ .xml
+ .html
+ .php
+ .ph
+Your Ans :
+.php
+Correct Ans :
+.php
+Q68. What type of language is PHP?
+ Server-side scripting
+ Client-side scripting
+ User-side scripting
+ None of the above
+Your Ans :
+Server-side scripting
+Correct Ans :
+Server-side scripting
+Q69. Choose the correct syntax of PHP.
+ <php>
+ <?php>
+ ?php?
+ <?php?>
+Your Ans :
+<?php>
+Correct Ans :
+<?php?>
+Q70. Total ways in which user a print output in PHP is -
+ 2
+ 3
+ 4
+ 5
+Your Ans :
+3
+Correct Ans :
+2
+Q71. Among echo and print, which is faster?
+ print
+ echo
+ Both have the same speed
+ None of the above
+Your Ans :
+echo
+Correct Ans :
+echo
+Q72. Is PHP variable case sensitive?
+ True
+ False
+ Not Available
+ Not Available
+Your Ans :
+False
+Correct Ans :
+True
+Q73. Functions in PHP should start with which of the following keyword?
+ def
+ fun
+ function
+ None of the above
+Your Ans :
+function
+Correct Ans :
+function
+Q74. Index of an array by default starts with which of the following in PHP?
+ 0
+ -1
+ 1
+ 2
+Your Ans :
+0
+Correct Ans :
+0
+Q75. trim() in PHP is used for?
+ Removes uppercase alphabet
+ Removes white spaces
+ Removes lowercase alphabet
+ Removes underscore
+Your Ans :
+Removes white spaces
+Correct Ans :
+Removes white spaces
+Q76. Which of the following symbol is used to add multiple line comments in PHP ?
+ //
+ /* */
+ {{ }}
+ {/ }
+Your Ans :
+//
+Correct Ans :
+/* */
+Q77. ______ is used to delete a file in PHP ?
+ delete()
+ unset()
+ unlink()
+ None of the above
+Your Ans :
+unlink()
+Correct Ans :
+unlink()
+Q78. Which function in PHP is used to get the length of string variable?
+ count()
+ strcount
+ strlen
+ len
+Your Ans :
+strlen
+Correct Ans :
+strlen
+Q79. Which Method is use to run sql queries in php ?
+ run()
+ query()
+ sql()
+ None of the above
+Your Ans :
+query()
+Correct Ans :
+query()
+Q80. How to set attribute in HTML Element using javaScript.
+ setAttribute()
+ attr()
+ Attr()
+ None of the above
+Your Ans :
+setAttribute()
+Correct Ans :
+setAttribute()
+Q81. Which of the following CSS property for repeat the animation?
+ animation-count
+ animation-repeat
+ animation-iteration-count
+ None of the above
+Your Ans :
+animation-iteration-count
+Correct Ans :
+animation-iteration-count
+Q82. -webkit- is use for _____________ browser compatibility for animation property
+ chrome and safari
+ opera
+ mozilla firefox
+ None of the above
+Your Ans :
+chrome and safari
+Correct Ans :
+chrome and safari
+Q83. How to put a single line comment in JavaScript ?
+ /* your comment */
+ // your comment
+ "your comment"
+ None of the Above
+Your Ans :
+// your comment
+Correct Ans :
+// your comment
+Q84. How to put a multi line comment in JavaScript ?
+ /* your comment */
+ // your comment
+ "your comment"
+ None of the Above
+Your Ans :
+/* your comment */
+Correct Ans :
+/* your comment */
+Q85. Which of the following is an Comparision operator?
+ --
+ !=
+ +=
+ ++
+Your Ans :
+!=
+Correct Ans :
+!=
+Q86. Which Function is used for add an attribute in HTML Element ?
+ addAttribute()
+ setAttribute()
+ getAttribute()
+ None of the Above
+Your Ans :
+setAttribute()
+Correct Ans :
+setAttribute()
+Q87. Which function is used to create an HTML element in JavaScript?
+ makeElement()
+ createHTMLElement()
+ createElement()
+ None of the Above
+Your Ans :
+createElement()
+Correct Ans :
+createElement()
+Q88. How to create an Array ?
+ ("red","green","blue")
+ ["red","green","blue"]
+ {"red","green","blue"}
+ None of the Above
+Your Ans :
+["red","green","blue"]
+Correct Ans :
+["red","green","blue"]
+Q89. What is loop in JavaScript?
+ loop is a method that defines how much time the code will execute
+ loop is a method that defines infinite time the code will execute
+ Not Available
+ Not Available
+Your Ans :
+loop is a method that defines how much time the code will execute
+Correct Ans :
+loop is a method that defines how much time the code will execute
+Q90. How Many Types of loops in JavaScript?
+ 1
+ 2
+ 3
+ 4
+Your Ans :
+4
+Correct Ans :
+3
+Q91. Which css property you will use if you want to add some margin between a DIV border and its inner text ?
+ spacing
+ padding
+ margin
+ inner-margin
+Your Ans :
+padding
+Correct Ans :
+padding
+Q92. ______ function is used to upload a file on server in PHP ?
+ move_upload_file()
+ upload()
+ file_upload()
+ move_uploaded_file()
+Your Ans :
+move_uploaded_file()
+Correct Ans :
+move_uploaded_file()
+Q93. ______ function is used to send mail in PHP ?
+ email()
+ mail()
+ send_mail()
+ None of the above
+Your Ans :
+mail()
+Correct Ans :
+mail()
+Q94. What is the Use of FTP ?
+ For Access the database
+ For uploading files on server
+ For uploading the data on database in mysql
+ None of the Above
+Your Ans :
+For Access the database
+Correct Ans :
+For uploading files on server
+Q95. How to know which method has been used to request a file
+ use of server super global
+ use of post super global
+ use of get super global
+ use of session super global
+Your Ans :
+use of server super global
+Correct Ans :
+use of server super global
+Q96. Which function is used to make a folder in php
+ mkfolder()
+ mkfdr()
+ mkdir()
+ makedir()
+Your Ans :
+mkdir()
+Correct Ans :
+mkdir()
+Q97. Which function is used to delete a folder in php
+ rmdir()
+ rmfolder()
+ removedir()
+ rmfdr()
+Your Ans :
+rmdir()
+Correct Ans :
+rmdir()
+Q98. Variables are created through which keyword in JavaScript?
+ var
+ vra
+ variable
+ None of the above
+Your Ans :
+var
+Correct Ans :
+var
+Q99. Which of these is a User defined function.
+ alert()
+ write()
+ log()
+ stp()
+Your Ans :
+stp()
+Correct Ans :
+stp()
+Q100. How many types of Functions in JavaScript ?
+ 1
+ 2
+ 3
+ 4
+Your Ans :
+4
+Correct Ans :
+2
+logo 
